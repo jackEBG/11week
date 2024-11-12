@@ -1,0 +1,9 @@
+pandas
+matplotlib
+datetime
+seaborn
+yfinance
+requests
+bs4
+BeautifulSoup
+numpy
